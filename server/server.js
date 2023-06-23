@@ -8,7 +8,6 @@ import {
   sana,
   r,
 } from "../database/questions.js";
-import "../database/mongo.js";
 config();
 
 
